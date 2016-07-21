@@ -1,5 +1,5 @@
 # REACT
-a web file structure using react + webpack + es6.
+react + webpack + es6.
 
 > react  : https://facebook.github.io/react/docs/thinking-in-react.html  
 > webpack: https://webpack.github.io/   
@@ -77,5 +77,8 @@ module.exports = {
   }
 }
 ```
-to start this application, go to your application directory using terminal, and run webpack -w.
-then double click index.html file on /public folder.
+## Things you need to do:
+1. go to your application directory using terminal  
+2. run npm install
+3. run webpack -w
+4. double click index.html file on /public folder
