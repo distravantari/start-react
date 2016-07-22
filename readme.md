@@ -79,6 +79,7 @@ module.exports = {
 ```
 ## Things you need to do:
 1. go to your application directory using terminal  
+2. npm install webpack -g
 2. run npm install
 3. run webpack -w
 4. double click index.html file on /public folder
