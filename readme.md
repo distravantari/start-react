@@ -83,3 +83,7 @@ module.exports = {
 2. run npm install
 3. run webpack -w
 4. double click index.html file on /public folder
+5. 
+
+## Note:
+- useRouterHistory is not a function error means there is no useRouterHistory.js on your node_modules/react-router folder
